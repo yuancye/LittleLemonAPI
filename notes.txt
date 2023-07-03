@@ -1,0 +1,32 @@
+Please log in on the right corner of  http://127.0.0.1:8000/
+http://127.0.0.1:8000/admin for admin management.
+
+superuser:
+username:lemon
+email:little@littlelemon.com
+password:lemon@123!
+
+manager:
+username:jake
+email:Jake@littlelemon.com
+password:jake@123!
+
+
+delivery crew:
+username: tom
+email: tom@littlelemon.com
+password:tom@123!
+
+customer
+username: customer1
+email: customer1@gmail.com
+password:123@little!
+
+username: customer2
+email: customer2@gmail.com
+password:123@little!
+
+username: lily
+email: lily@gmail.com
+password:lily@123!
+
