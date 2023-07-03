@@ -5,4 +5,4 @@
 4. python manage.py makemigrations
 5. python manage.py migrate
 6. python manage.py runserver
-7. happy explore the api endpoints
+7. happy to explore the api endpoints
